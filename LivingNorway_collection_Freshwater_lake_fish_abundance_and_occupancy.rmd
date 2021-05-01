@@ -1,0 +1,18 @@
+---
+title: "LivingNorway collection: Freshwater lake fish abundance and occupancy"
+author: "Anders G. Finstad"
+date: "5/1/2021"
+output: html_document
+---
+# Freshwater lake fish abundance and occupancy 
+
+This collection 
+
+
+
+```{r setup, include=FALSE}
+
+```
+
+## R Markdown
+
